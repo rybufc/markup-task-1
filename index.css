@@ -1,0 +1,39 @@
+body
+{
+    font-family: Open Sans, Helvetica Neue, sans-serif;
+}
+
+table
+{
+    border: 4px outset;
+}
+
+th,
+td
+{
+    border: 1px solid;
+}
+
+.b_address
+{
+    text-align: right;
+}
+
+.b_header
+{
+    text-align: center;
+}
+
+.b_comments_list
+{
+    border: 4px outset;
+    padding-left: 5px;
+}
+
+.b_comments_item
+{
+    padding-left: 5px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    border: 4px double;
+}
